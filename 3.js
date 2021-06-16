@@ -1,0 +1,1 @@
+let laPromo20SePico = false;
